@@ -1,0 +1,56 @@
+* {
+    margin: 0em;
+    padding: 0em;
+    font-family: cursive, monospace, sans-serif;
+}
+
+body{
+    background-color: #ffb3b3;
+}
+
+#mainTitle {
+    margin-top: 1em;
+    text-align: center;
+}
+
+#backgroundColorDiv {
+    margin-top: 6em;
+    text-align: center;
+}
+
+#backgroundColorLabel {
+    box-shadow: 0.5em 0.5em #888888;
+    background-color: gainsboro;
+    border-radius: 2em;
+    border: 0.5em solid white;
+    display: inline;
+    border-radius: 10em;
+    padding: 0.5em;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+#colourName{
+    color:#ffb3b3;
+}
+
+#btnDiv {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#flipperBtn {
+    padding: 1em;
+    border-radius: 2em;
+    border: 0.5em solid white;
+    background-color: gainsboro;
+    font-weight: bolder;
+    box-shadow: 0.5em 0.5em #888888;
+    cursor: pointer;
+}
+
+#flipperBtn:focus {
+    outline: none;
+}
