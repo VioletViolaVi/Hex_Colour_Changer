@@ -54,3 +54,7 @@ body {
 #flipperBtn:focus {
     outline: none;
 }
+
+#flipperBtn:hover {
+    padding: 1.5em;
+}

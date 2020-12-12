@@ -14,35 +14,10 @@ document.addEventListener("DOMContentLoaded", function (event) {
         colourName.style.color = hashColor;
         colourName.textContent = hashColor;
         document.body.style.backgroundColor = hashColor;
-
     });
 
     function getRandomHexCharacters() {
         return Math.floor(Math.random() * hexCharacters.length);
     };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 });
