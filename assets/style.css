@@ -4,7 +4,7 @@
     font-family: cursive, monospace, sans-serif;
 }
 
-body{
+body {
     background-color: #ffb3b3;
 }
 
@@ -30,8 +30,8 @@ body{
     font-weight: 600;
 }
 
-#colourName{
-    color:#ffb3b3;
+#colourName {
+    color: #ffb3b3;
 }
 
 #btnDiv {
